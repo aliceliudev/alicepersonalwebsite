@@ -934,6 +934,7 @@ h1 {
     .header-nav-01 {
         top: 0;
         padding: 10px 15px;
+        background-color: #eee;
     }
     .header-nav-01.fixed-header {
         padding: 10px 15px;
@@ -990,7 +991,7 @@ h1 {
 
 .home-banner h1 {
     color: #292929;
-    font-size: 60px;
+    font-size: 50px;
     font-weight: 600;
     margin: 0 0 25px -6px;
     line-height: 70px;
